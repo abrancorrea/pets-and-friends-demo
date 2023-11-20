@@ -48,7 +48,7 @@ export const StyledBanner = styled.div`
 
   @media (max-width: 768px) {
     flex-wrap: wrap;
-    padding: 0 2rem 10rem;
+    padding: 3.5rem 2rem 10rem;
   }
 
   @media (min-width: 1441px) {
